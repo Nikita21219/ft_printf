@@ -1,0 +1,13 @@
+.DS_Store
+a.out
+*.o
+main.c
+.vscode
+*.a
+./libft/.DS_Store
+./libft/a.out
+./libft/*.o
+./libft/main.c
+./libft/.vscode
+./libft/*.a
+printfTester
